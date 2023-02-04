@@ -1,0 +1,78 @@
+#afterIntro {
+    /* border: 5px solid red; */
+    /* width: 98vw;
+  height: 70vh; */
+
+    position: relative;
+    margin-top: 100px;
+
+}
+
+#musicPad,
+#lady {
+    padding: 55px;
+    width: 50%;
+    vertical-align: middle;
+    margin-top: 3%;
+    margin-left: 3%;
+    padding-bottom: 120px;
+
+}
+
+#lady {
+    width: 40%;
+
+}
+
+#yellow {
+    height: 100%;
+    width: 60%;
+    background-color: #fbffa7;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+
+#yo {
+    height: 500px;
+    width: 500px;
+    border: 3px solid green;
+}
+
+
+
+
+
+
+
+
+/* 
+#afterIntro {
+    position: relative;
+    margin-top: 100px;
+}
+
+#musicPad,
+#lady {
+    width: 45%;
+    margin: 0 4%;
+    padding: 10% 0;
+
+}
+
+#lady {
+    width: 35%;
+    margin-bottom: 3%;
+
+}
+
+#yellow {
+    background-color: #fbffa7;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60%;
+    height: 100%;
+    z-index: -1;
+} */
