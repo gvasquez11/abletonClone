@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-[label](../../Videos/Captures/Ableton%20-%20Google%20Chrome%202023-02-07%2023-14-09.mp4)
+https://user-images.githubusercontent.com/36422346/217463271-020d02ce-efeb-4a0b-affd-df56ceb9767d.mp4
 
 A simple clone of the Ableton website built with vanilla JavaScript.
 
